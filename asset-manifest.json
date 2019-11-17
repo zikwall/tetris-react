@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vk-tetris-react/static/css/main.20caadca.chunk.css",
+    "main.js": "/vk-tetris-react/static/js/main.c8af1721.chunk.js",
+    "main.js.map": "/vk-tetris-react/static/js/main.c8af1721.chunk.js.map",
+    "runtime-main.js": "/vk-tetris-react/static/js/runtime-main.7b9ac37a.js",
+    "runtime-main.js.map": "/vk-tetris-react/static/js/runtime-main.7b9ac37a.js.map",
+    "static/css/2.266626f9.chunk.css": "/vk-tetris-react/static/css/2.266626f9.chunk.css",
+    "static/js/2.b5c61ceb.chunk.js": "/vk-tetris-react/static/js/2.b5c61ceb.chunk.js",
+    "static/js/2.b5c61ceb.chunk.js.map": "/vk-tetris-react/static/js/2.b5c61ceb.chunk.js.map",
+    "index.html": "/vk-tetris-react/index.html",
+    "precache-manifest.ac47d93c140fd06355dbdc66e719fea6.js": "/vk-tetris-react/precache-manifest.ac47d93c140fd06355dbdc66e719fea6.js",
+    "service-worker.js": "/vk-tetris-react/service-worker.js",
+    "static/css/2.266626f9.chunk.css.map": "/vk-tetris-react/static/css/2.266626f9.chunk.css.map",
+    "static/css/main.20caadca.chunk.css.map": "/vk-tetris-react/static/css/main.20caadca.chunk.css.map",
+    "static/media/app.css": "/vk-tetris-react/static/media/Tetris.ec7fc8bd.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b9ac37a.js",
+    "static/css/2.266626f9.chunk.css",
+    "static/js/2.b5c61ceb.chunk.js",
+    "static/css/main.20caadca.chunk.css",
+    "static/js/main.c8af1721.chunk.js"
+  ]
+}
