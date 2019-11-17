@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Tetris Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Tetris Regular'), url('../fonts/Tetris.woff') format('woff');
+}
+
+body {
+    font: 20px/1 'Tetris Regular';
+    font-weight:normal;
+    font-size:22px;
+}
+
+.PanelHeader-content--brand, .PanelHeader-bg--brand, .PanelHeader-right--brand, .PanelHeader-left-in--brand {
+    background: #efcc19;
+}
+
+.PanelHeader-left-in--brand {
+    padding-left: 10px;
+}
+
+.PanelHeader-content.PanelHeader-content--brand span {
+    font-family:'Tetris Regular';
+    font-weight:normal;
+    font-size:28px;
+    color: black;
+}
