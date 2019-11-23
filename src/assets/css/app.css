@@ -25,3 +25,9 @@ body {
     font-size:28px;
     color: black;
 }
+
+.PanelHeader--android .PanelHeader-bg {
+    height: 56px;
+    height: var(--panelheader_height_android);
+    box-shadow: none;
+}
