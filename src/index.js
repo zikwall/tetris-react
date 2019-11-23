@@ -9,6 +9,7 @@ import './control';
 import { subscribeRecord } from './unit';
 
 connect.send('VKWebAppInit', {});
+connect.send("VKWebAppSetViewSettings", {"status_bar_style": "light", "action_bar_color": "#efcc19"});
 
 subscribeRecord(store);
 
