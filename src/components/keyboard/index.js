@@ -85,7 +85,7 @@ export default class Keyboard extends React.Component {
               size="s1"
               top={0}
               left={374}
-              label={'Rotation/Level+'}
+              label={'Rotation'}
               arrow="translate(0, 63px)"
               position
               active={keyboard.get('rotate')}
@@ -96,7 +96,7 @@ export default class Keyboard extends React.Component {
               size="s1"
               top={180}
               left={374}
-              label={'Down/Level-'}
+              label={'Down'}
               arrow="translate(0,-71px) rotate(180deg)"
               active={keyboard.get('down')}
               ref={(c) => { this.dom_down = c; }}
@@ -106,7 +106,7 @@ export default class Keyboard extends React.Component {
               size="s1"
               top={90}
               left={284}
-              label={'Left/Speed-'}
+              label={'Left'}
               arrow="translate(60px, -12px) rotate(270deg)"
               active={keyboard.get('left')}
               ref={(c) => { this.dom_left = c; }}
@@ -116,7 +116,7 @@ export default class Keyboard extends React.Component {
               size="s1"
               top={90}
               left={464}
-              label={'Right/Speed+'}
+              label={'Right'}
               arrow="translate(-60px, -12px) rotate(90deg)"
               active={keyboard.get('right')}
               ref={(c) => { this.dom_right = c; }}
@@ -126,7 +126,7 @@ export default class Keyboard extends React.Component {
               size="s0"
               top={100}
               left={52}
-              label={`Drop (SPACE)/Start`}
+              label={`Drop (SPACE)`}
               active={keyboard.get('drop')}
               ref={(c) => { this.dom_space = c; }}
           />
